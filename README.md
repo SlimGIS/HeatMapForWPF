@@ -1,8 +1,8 @@
-Keywords: heat mapping, heat maps, custom heat maps
+Keywords: heat map, heat maps, custom heat maps
 
-# Build Heat maps with SlimGIS MapKit WPF
+# Build a Heat Map
 
-Heat mapping, from a  geographic perspective, is a method of showing the geographic clustering of a phenomenon.  Sometimes also referred as hot spot mapping, heat maps show locations of higher densities of geographic entities. ‘heat’ in the term refers to the concentration of the geographic entity within any given spot, not to be confused with heat mapping that refers to the mapping of actual temperatures on the earth’s surface.  Heat mapping is a way of geographically visualizing locations so that patterns of higher than average occurrence of things likes crime activity, traffic accidents, or store locations can emerge.
+<desc>Heat mapping, from a  geographic perspective, is a method of showing the geographic clustering of a phenomenon.  Sometimes also referred as hot spot mapping, heat maps show locations of higher densities of geographic entities. ‘heat’ in the term refers to the concentration of the geographic entity within any given spot, not to be confused with heat mapping that refers to the mapping of actual temperatures on the earth’s surface.  Heat mapping is a way of geographically visualizing locations so that patterns of higher than average occurrence of things likes crime activity, traffic accidents, or store locations can emerge.</desc>
 
 This video represents a Heat Maps demo that is created by SlimGIS MapKit WPF control. Besides the basic heat map, we will also show you the powerful configure for the heat maps. In the demo, you will find out we switched the heat maps style which are build-in in our control. Also, you could adjust the heat radius size to see. Dive into the API, we provides a color list so that you could customize your own colors.
 
