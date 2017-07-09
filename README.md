@@ -34,8 +34,7 @@ We have 4 build-in color patterns and a custom switcher to allow to use custom c
 
 - Custom
 
-For more features, visit us at http://www.slimgis.com.
-
 ## Related Resources
-- [Source code](https://github.com/SlimGIS/HeatMapForWPF)
-- [Video](https://youtu.be/QqFdwrOk5m0)
+- [Heat Map Source code](https://github.com/SlimGIS/HeatMapForWPF)
+- [Heat Map Video](https://youtu.be/QqFdwrOk5m0)
+- [SlimGIS Home](https://www.slimgis.com)
